@@ -18,8 +18,8 @@ ___
 
   To CREATE a new payload send a POST request with your body containing json data of message, data to https://nodejscrudapps.herokuapp.com/payload
 ___
-  To UPDATE a payload send a PATCH request width the ID of the payload you want to update to https://nodejscrudapps.herokuapp.com/payload/id
+  To UPDATE a payload send a PATCH request width the ID of the payload you want to update as parameter to https://nodejscrudapps.herokuapp.com/payload/id
 ___
-  To DELETE a payload send a DELETE request width the ID of the payload you want to delete to https://nodejscrudapps.herokuapp.com/payload/id
+  To DELETE a payload send a DELETE request width the ID of the payload you want to delete as parameter to https://nodejscrudapps.herokuapp.com/payload/id
 
 
